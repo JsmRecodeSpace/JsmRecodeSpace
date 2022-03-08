@@ -1,3 +1,6 @@
 
 
-<a href="file:///C:/Users/jsm50/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%84%B1%EB%AF%BC/%EC%82%AC%EC%A7%84/%EA%B9%83%ED%97%99%ED%94%84%EB%A1%9C%ED%95%84%EC%82%AC%EC%A7%84/python.svg" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
+###
+<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
