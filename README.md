@@ -55,3 +55,5 @@
 
 ##### Contect
  - jsm9358@naver.com
+
+ps. 모든 활동은 repositories에 있음
