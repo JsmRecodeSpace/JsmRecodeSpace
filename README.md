@@ -2,7 +2,7 @@
 
 https://img.shields.io/static/v1?label=<LABEL>&message=<Python>&color=<#3776AB>
 https://img.shields.io/badge/<LABEL>-<Python>-<#3776AB>
-  <img src="https://img.shields.io/badge/Python-Python-3776AB?"/>
+  <img src="https://img.shields.io/badge/Android-Python-3776AB?"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   
   
