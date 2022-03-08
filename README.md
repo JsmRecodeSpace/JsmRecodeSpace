@@ -2,7 +2,9 @@
 
 
 
-
+### Contect
+ - 자소서 준비되어 있음
+ - jsm9358@naver.com
 
 ### Skills
 <img src="https://img.shields.io/badge/python-3776AB?style={스타일}&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style={스타일}&logo=PyTorch&logoColor=white"/> 
@@ -19,13 +21,13 @@
 <img src="https://img.shields.io/badge/Notion-000000?style={스타일}&logo=Notion&logoColor=white"/>
 
 
-### 자격증
+#### 자격증
  - ADsP
  - SQLD
  - 국가공인 한자자격시험 1급
 
 
-### 수상경력
+#### 수상경력
  - 제9회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석 수상(리더)
  - 2021 빅콘테스트 데이터분석분야 퓨처스리그 홍수ZERO부문 수상(리더)
 
