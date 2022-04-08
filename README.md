@@ -21,7 +21,8 @@
  - ADsP
  - SQLD
  - 국가공인 한자자격시험 1급
-
+ - OPIc IM1
+ - TOEIC Speaking Test Level6
 
 ##### **수상경력**
  - 제9회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석 수상 (팀장)
