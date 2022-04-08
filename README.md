@@ -9,56 +9,48 @@
 
 
 ### Skills
-<img src="https://img.shields.io/badge/python-3776AB?&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?&logo=scikit-learn&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Numpy-013243?&logo=NumPy&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/python-3776AB?&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=ffffff"/> <img src="https://img.shields.io/badge/ScikitLearn-F7931E?&logo=scikit-learn&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Numpy-013243?&logo=NumPy&logoColor=ffffff"/>
 
 
 
 ### Tools
-<img src="https://img.shields.io/badge/Jupyter-F37626?&logo=Jupyter&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?&logo=Slack&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Notion-000000?}&logo=Notion&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?&logo=Jupyter&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Slack-4A154B?&logo=Slack&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Notion-000000?}&logo=Notion&logoColor=ffffff"/>
 
 
-##### 자격증
+##### **자격증**
  - ADsP
  - SQLD
  - 국가공인 한자자격시험 1급
 
 
-##### 수상경력
- - 제9회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석 수상 (리더)
- - 2021 빅콘테스트 데이터분석분야 퓨처스리그 홍수ZERO부문 수상 (리더)
+##### **수상경력**
+ - 제9회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석 수상 (팀장)
+ - 2021 빅콘테스트 데이터분석분야 퓨처스리그 홍수ZERO부문 수상 (팀장)
 
 
-##### 활동경력
- - 2021년 국민대학교 빅데이터 학회 D&A 1년간 운영 및 티칭 (부학회장)
+##### **활동경력**
+ - 2021년 국민대학교 빅데이터 학회 D&A 1년간 활동 (부학회장)
 
 
-##### 프로젝트 경력
- - 2020_05 롯데백화점 성별 예측 AI 경진대회(교내) [머신러닝, 리더]
- - 2020_10 데이콘 심리 성향 예측 AI 경진대회 (Dacon) [머신러닝, 리더]
- - 2020_12 공간빅데이터분석 프로젝트(교내) [QGIS, 개인]
- - 2021_04 텍스트데이터분석 프로젝트 (교내) [텍스트데이터분석, 개인]
- - 2021_06 코트라 수출 예측 AI 공모전 (공모전) [머신러닝, 리더]
- - 2021_09 빅콘테스트 데이터분석 분야 퓨처스리그 홍수ZERO (공모전) [머신러닝, 리더]
- - 2021_11 위조번호판 출입방지를 위한 영상처리기반 주차관제시스템 (학회) [영상처리, 리더]
- - 2021_12 빅데이터 캡스톤 프로젝트 - 코로나19 시대의 소상공인의 현황 (우리은행 연계 교내 프로젝트) [텍스트데이터분석, 팀원]
- - 2022_02 데이콘 집값 예측 경진대회 (Dacon) [머신러닝, 개인, public 1등, private 3등]
+##### **프로젝트 경력**
+ - 2022_02 데이콘 집값 예측 경진대회 [머신러닝, 개인, public 1등, private 3등]
+ - 2021_12 코로나19 시대의 소상공인의 현황 [텍스트데이터분석, 팀원]
+ - 2021_11 위조번호판 출입방지를 위한 인공지능 기반 주차관제시스템 [컴퓨터 비전, 팀장]
+ - 2021_09 빅콘테스트 데이터분석 분야 퓨처스리그 홍수ZERO [머신러닝, 팀장]
+ - 2021_06 코트라 수출 예측 AI 공모전 [머신러닝, 팀장]
+ - 2021_04 리뷰분석을 통한 빅데이터 IT회사 선별 [텍스트데이터분석, 개인]
+ - 2020_12 만약 코로나 장기화로 서울의 스타벅스 매장을 20% 줄여야 한다면 어느 지역을 왜? [QGIS, 개인]
+ - 2020_10 데이콘 심리 성향 예측 AI 경진대회 [머신러닝, 팀장]
+ - 2020_05 백화점 트랜잭션 데이터를 활용한 성별 예측 모델 개발 [머신러닝, 팀장]
 
-##### 그 외 작업
+##### **그 외 작업**
  - Python 코드 정리(Python문법 / 데이터분석 / 머신러닝 / 딥러닝)
 
-##### 현재 진행 중
+##### **현재 진행 중**
  - 2022년 차근차근 코딩테스트 공부
  - 논문작성: 위조번호판 출입 방지를 위한 인공지능 기반의 주차관제시스템 개선 방안 (4월 한국지능정보시스템 투고 예정)
  - Dacon 머신러닝, 딥러닝 대회 참여
 
 
-##### Contect
+##### **Contect**
  - jsm9358@naver.com
-
-ps. 모든 활동은 repositories에 있음
