@@ -21,7 +21,7 @@
  - ADsP
  - SQLD
  - 국가공인 한자자격시험 1급
- - OPIc IM1
+ - OPIc IM
  - TOEIC Speaking Test Level6
 
 ##### **수상경력**
