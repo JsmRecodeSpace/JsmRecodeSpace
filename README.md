@@ -30,7 +30,8 @@
 
 
 ##### **활동경력**
- - 2021년 국민대학교 빅데이터 학회 D&A 1년간 활동 (부학회장)
+ - 2021년 국민대학교 빅데이터 학회 D&A 1년간 활동 (부학회장)  
+   https://github.com/JsmRecordSpace/2021-D-A-of-Kookmin-University-s-Big-Data-Society
 
 
 ##### **프로젝트 경력**
