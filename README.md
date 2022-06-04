@@ -30,30 +30,22 @@
 
 
 ##### **활동경력**
- - 2021년 국민대학교 빅데이터 학회 D&A 1년간 활동 (부학회장)  
-   https://github.com/JsmRecordSpace/2021-D-A-of-Kookmin-University-s-Big-Data-Society
+ - 2021년 국민대학교 빅데이터 학회 D&A 1년간 활동 (부학회장) [(Link)](https://github.com/JsmRecordSpace/2021-D-A-of-Kookmin-University-s-Big-Data-Society)
+   
 
 
 ##### **프로젝트 경력**
- - 2022_02 데이콘 집값 예측 경진대회 [머신러닝, 개인, public 1등, private 3등]  
-   https://github.com/JsmRecordSpace/2022_02-Dacon-housing-price-prediction-contest
- - 2021_12 코로나19 시대의 소상공인의 현황 [텍스트데이터분석, 팀원]  
-   https://github.com/JsmRecordSpace/2021_12-Big-Data-Capstone-Project---Current-status-of-small-business-owners-in-the-COVID-19-era
- - 2021_11 위조번호판 출입방지를 위한 인공지능 기반 주차관제시스템 [컴퓨터 비전, 팀장]  
-   https://github.com/JsmRecordSpace/2021_11-Forged-license-plate-enter-prevention-parking-control-system
- - 2021_09 빅콘테스트 데이터분석 분야 퓨처스리그 홍수ZERO [머신러닝, 팀장]  
-   https://github.com/JsmRecordSpace/2021_09-BigContest-Bigdata-Analysis-League
- - 2021_06 코트라 수출 예측 AI 공모전 [머신러닝, 팀장]  
-   https://github.com/JsmRecordSpace/2021_06-AI-competition-to-predict-exports-of-KOTRA
- - 2021_04 리뷰분석을 통한 빅데이터 IT회사 선별 [텍스트데이터분석, 개인]
-   https://github.com/JsmRecordSpace/2021_04-Text-Data-Analysis-Project
- - 2020_12 만약 코로나 장기화로 서울의 스타벅스 매장을 20% 줄여야 한다면 어느 지역을 왜? [QGIS, 개인]  
-   https://github.com/JsmRecordSpace/2020_12-Spatial-Big-Data-Analysis-Project
- - 2020_10 데이콘 심리 성향 예측 AI 경진대회 [머신러닝, 팀장]  
-   https://github.com/JsmRecordSpace/2020_10-Dacon-Psychological-propensity-prediction-AI-contest
- - 2020_05 백화점 트랜잭션 데이터를 활용한 성별 예측 모델 개발 [머신러닝, 팀장]
-   https://github.com/JsmRecordSpace/2020_05-Department-Store-s-Gender-Prediction-AI-Contest
-
+ - 2022_02 데이콘 집값 예측 경진대회 [머신러닝, 개인, public 1등, private 3등] [(Link)](https://github.com/JsmRecordSpace/2022_02-Dacon-housing-price-prediction-contest)
+ - 2021_12 코로나19 시대의 소상공인의 현황 [텍스트데이터분석, 팀원] [(Link)](https://github.com/JsmRecordSpace/2021_12-Big-Data-Capstone-Project---Current-status-of-small-business-owners-in-the-COVID-19-era)
+ - 2021_11 위조번호판 출입방지를 위한 인공지능 기반 주차관제시스템 [컴퓨터 비전, 팀장] [(Link)](https://github.com/JsmRecordSpace/2021_11-Forged-license-plate-enter-prevention-parking-control-system)
+ - 2021_09 빅콘테스트 데이터분석 분야 퓨처스리그 홍수ZERO [머신러닝, 팀장] [(Link)](https://github.com/JsmRecordSpace/2021_09-BigContest-Bigdata-Analysis-League)
+ - 2021_06 코트라 수출 예측 AI 공모전 [머신러닝, 팀장] [(Link)](https://github.com/JsmRecordSpace/2021_06-AI-competition-to-predict-exports-of-KOTRA)   
+ - 2021_04 리뷰분석을 통한 빅데이터 IT회사 선별 [텍스트데이터분석, 개인] [(Link)](https://github.com/JsmRecordSpace/2021_04-Text-Data-Analysis-Project)
+   
+ - 2020_12 만약 코로나 장기화로 서울의 스타벅스 매장을 20% 줄여야 한다면 어느 지역을 왜? [QGIS, 개인] [(Link)](https://github.com/JsmRecordSpace/2020_12-Spatial-Big-Data-Analysis-Project)
+ - 2020_10 데이콘 심리 성향 예측 AI 경진대회 [머신러닝, 팀장] [(Link)](https://github.com/JsmRecordSpace/2020_10-Dacon-Psychological-propensity-prediction-AI-contest)
+ - 2020_05 백화점 트랜잭션 데이터를 활용한 성별 예측 모델 개발 [머신러닝, 팀장] [(Link)](https://github.com/JsmRecordSpace/2020_05-Department-Store-s-Gender-Prediction-AI-Contest)
+   
 ##### **그 외 작업**
  - Python 코드 정리(Python문법 / 데이터분석 / 머신러닝 / 딥러닝)
 
