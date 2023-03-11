@@ -4,7 +4,7 @@
   - 학적: 국민대학교 빅데이터경영통계 졸업
   - 가능: DataCrawling & 정제, Feature Engineering(Generation, Preprocessing, Selection)<br/>
           , Modeling(ML Architect, ParameterOptimization), Ensemble, 성능검증, 모형 해석
-  - 관심사: 파이프라인 구축
+  - 관심사: 자동화구축
   - 취미: 수영, 윈드서핑, 정리
   - 잘하는 것: 운동, 집안일, 고기 굽기, 계획표 작성 
   - 못하는 것: 사진 찍을 때 자연스럽게 웃기
