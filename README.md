@@ -1,12 +1,14 @@
 
 ### Infos
   - 이름: 장성민(張盛珉)
-  - 나이: 1997.02.20
-  - 학적: 국민대학교 빅데이터경영통계 졸업(2022)
-  - 취미: 수영, 윈드서핑, 잡지 읽기
-  - 잘하는 것: 운동, 집안일, 고기 굽기, 자기계발, 계획표 작성 
+  - 학적: 국민대학교 빅데이터경영통계 졸업
+  - 가능: DataCrawling & 정제, Feature Engineering(Generation, Preprocessing, Selection), Modeling(ML Architect, ParameterOptimization)
+        , Ensemble, 성능검증, 모형 해석
+  - 관심사: 파이프라인 구축
+  - 취미: 수영, 윈드서핑, 정리
+  - 잘하는 것: 운동, 집안일, 고기 굽기, 계획표 작성 
   - 못하는 것: 사진 찍을 때 자연스럽게 웃기
-  - 현 근무지: 삼성카드(주)
+  - 현 근무지: 삼성카드 개인신용관리팀 신판 한도 운영 中 거래중지, 국내승인, VIP
 
 
 ### Skills
@@ -36,6 +38,7 @@
 
 
 ##### **프로젝트 경력**
+ - 2022_06 위조번호판 출입 방지를 위한 인공지능 기반의 주차관제시스템 개선 방안 논문 작성(한국지능정보시스템 학회 22.6月 게재 완료)[(Link)](http://www.koreascience.or.kr/article/JAKO202219559295354.pdf)
  - 2022_02 데이콘 집값 예측 경진대회 [머신러닝, 개인, public 1등, private 3등] [(Link)](https://github.com/JsmRecordSpace/2022_02-Dacon-housing-price-prediction-contest)
  - 2021_12 코로나19 시대의 소상공인의 현황 [텍스트데이터분석, 팀원] [(Link)](https://github.com/JsmRecordSpace/2021_12-Big-Data-Capstone-Project---Current-status-of-small-business-owners-in-the-COVID-19-era)
  - 2021_11 위조번호판 출입방지를 위한 인공지능 기반 주차관제시스템 [컴퓨터 비전, 팀장] [(Link)](https://github.com/JsmRecordSpace/2021_11-Forged-license-plate-enter-prevention-parking-control-system)
@@ -46,15 +49,15 @@
  - 2020_12 만약 코로나 장기화로 서울의 스타벅스 매장을 20% 줄여야 한다면 어느 지역을 왜? [QGIS, 개인] [(Link)](https://github.com/JsmRecordSpace/2020_12-Spatial-Big-Data-Analysis-Project)
  - 2020_10 데이콘 심리 성향 예측 AI 경진대회 [머신러닝, 팀장] [(Link)](https://github.com/JsmRecordSpace/2020_10-Dacon-Psychological-propensity-prediction-AI-contest)
  - 2020_05 백화점 트랜잭션 데이터를 활용한 성별 예측 모델 개발 [머신러닝, 팀장] [(Link)](https://github.com/JsmRecordSpace/2020_05-Department-Store-s-Gender-Prediction-AI-Contest)
-   
+    
 ##### **그 외 작업**
  - Python 코드 정리(Python문법 / 데이터분석 / 머신러닝 / 딥러닝)
 
 ##### **현재 진행 중**
- - 논문작성: 위조번호판 출입 방지를 위한 인공지능 기반의 주차관제시스템 개선 방안 (한국지능정보시스템 학회 6월호 게재 완료)  
- - 특허출원: 위조번호판 출입 방지를 위한 인공지능 기반의 주차관제시스템 (특허출원 완료, 등록과정 대기상태)  
- - 삼성카드(주) 데이터분석 근무 중  
-
+ - 특허출원: 위조번호판 출입 방지를 위한 인공지능 기반의 주차관제시스템 (특허출원 완료, 등록 대기상태)  
+ - 나홀로 프로젝트 진행 중: Auction AutoUpdate CrawlingEngine (팀 2~3명 모집^^)
 
 ##### **Contect**
  - jsm9358@naver.com
+ - sungmin.jang@samsung.com
+ 
