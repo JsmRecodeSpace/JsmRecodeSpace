@@ -3,7 +3,7 @@
   - 이름: 장성민(張盛珉)
   - 학적: 국민대학교 빅데이터경영통계 졸업
   - 주관심사-ML: DataCrawling & 정제, Feature Engineering(Generation, Preprocessing, Selection)<br/>
-          , Modeling(ML Architect, ParameterOptimization), Ensemble, 성능검증, 모형 해석, 자동화구축, + 없는것 
+          , Modeling(ML Architect, ParameterOptimization), Ensemble, 성능검증, 모형 해석, 자동화구축, + 없는것 만들어내기
   - 취미: 수영, 윈드서핑, 정리
   - 잘하는 것: 활동적인 운동, 설거지, 고기 굽기, 계획표 작성 
   - 못하는 것: 사진 찍을 때 자연스럽게 웃기
