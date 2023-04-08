@@ -37,7 +37,7 @@
 
 
 ##### **프로젝트 경력**
- - 2022_06 위조번호판 출입 방지를 위한 인공지능 기반의 주차관제시스템 개선 방안 논문 작성(한국지능정보시스템 학회 22.6月 게재 완료)[(Link)](http://www.koreascience.or.kr/article/JAKO202219559295354.pdf)
+ - 2022_06 위조번호판 출입 방지를 위한 인공지능 기반의 주차관제시스템 개선 방안 논문 작성(한국지능정보시스템 학회 22.6月 게재 완료 → 논문기반 특허출원)[(Link)](http://www.koreascience.or.kr/article/JAKO202219559295354.pdf)
  - 2022_02 데이콘 집값 예측 경진대회 [머신러닝, 개인, public 1등, private 3등] [(Link)](https://github.com/JsmRecordSpace/2022_02-Dacon-housing-price-prediction-contest)
  - 2021_12 코로나19 시대의 소상공인의 현황 [텍스트데이터분석, 팀원] [(Link)](https://github.com/JsmRecordSpace/2021_12-Big-Data-Capstone-Project---Current-status-of-small-business-owners-in-the-COVID-19-era)
  - 2021_11 위조번호판 출입방지를 위한 인공지능 기반 주차관제시스템 [컴퓨터 비전, 팀장] [(Link)](https://github.com/JsmRecordSpace/2021_11-Forged-license-plate-enter-prevention-parking-control-system)
