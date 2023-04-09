@@ -19,16 +19,16 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?&logo=Jupyter&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Slack-4A154B?&logo=Slack&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Notion-000000?}&logo=Notion&logoColor=ffffff"/>
 
 
-##### **수상경력**
+#### **수상경력**
  - 제9회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석 수상 (팀장)
  - 2021 빅콘테스트 데이터분석분야 퓨처스리그 홍수ZERO부문 수상 (팀장)
 
 
-##### **활동경력**
+#### **활동경력**
  - 2021년 국민대학교 빅데이터 학회 D&A 1년간 활동 (부학회장) [(Link)](https://github.com/JsmRecordSpace/2021-D-A-of-Kookmin-University-s-Big-Data-Society)
    
 
-##### **프로젝트 경력**
+#### **프로젝트 경력**
  - 2022_06 위조번호판 출입 방지를 위한 인공지능 기반의 주차관제시스템 개선 방안 논문 작성(한국지능정보시스템 학회 22.6月 게재 완료 → 논문기반 특허출원)[(Link)](http://www.koreascience.or.kr/article/JAKO202219559295354.pdf)
  - 2022_02 데이콘 집값 예측 경진대회 [머신러닝, 개인, public 1등, private 3등] [(Link)](https://github.com/JsmRecordSpace/2022_02-Dacon-housing-price-prediction-contest)
  - 2021_12 코로나19 시대의 소상공인의 현황 [텍스트데이터분석, 팀원] [(Link)](https://github.com/JsmRecordSpace/2021_12-Big-Data-Capstone-Project---Current-status-of-small-business-owners-in-the-COVID-19-era)
@@ -42,11 +42,11 @@
  - 2020_05 백화점 트랜잭션 데이터를 활용한 성별 예측 모델 개발 [머신러닝, 팀장] [(Link)](https://github.com/JsmRecordSpace/2020_05-Department-Store-s-Gender-Prediction-AI-Contest)
 
 
-##### **그 외 작업**
+#### **그 외 작업**
  - Python 코드 정리(문법/ 데이터분석 /머신러닝 /딥러닝 /SQL)
 
 
-##### **자격증**
+#### **자격증**
  - ADsP
  - SQLD
  - 국가공인 한자자격시험 1급
