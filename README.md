@@ -4,7 +4,7 @@
   - 학적: 국민대학교 빅데이터경영통계 졸업
   - 주관심사-ML: DataCrawling & 정제, Feature Engineering(Generation, Preprocessing, Selection)<br/>
           , Modeling(ML Architect, ParameterOptimization), Ensemble, 성능검증, 모형 해석, 자동화구축, + 없는것 만들어내기
-  - 장점: 성실, 꾸준함, 기록하는습관, 계획적
+  - 장점: 기록하는습관, 계획적
   - 단점: 슬로우 스타터
   - 취미: 수영, 윈드서핑, 농구
   - 現근무지: 삼성카드 개인신용관리팀 신판한도 운영(삼성카드 거래중지 운영관리, VIP자격기준관리, 승인 신판 한도전략관리)
