@@ -55,9 +55,9 @@
 
 
 #### **자격증**
+ - 국가공인 한자자격시험 1급
  - ADsP
  - SQLD
- - 국가공인 한자자격시험 1급
  - OPIc IM
  - TOEIC Speaking Test Level6
 
